@@ -1,6 +1,6 @@
 # **DiabetesPredictionAnalysis**
 
-A Python-based project for analyzing diabetes risk factors and predicting diagnoses. This repository includes a clinical dataset and a detailed Jupyter Notebook for data exploration, feature analysis, and predictive modeling.
+A Python-based project for analyzing diabetes risk factors and predicting diagnoses. This repository includes a clinical dataset and a detailed Jupyter Notebook for data preprocessing, detailed visualization, and exploration of the dataset. The project aims to understand the dataset thoroughly and gain insights into how the features may impact model building and predictions.
 
 ---
 
